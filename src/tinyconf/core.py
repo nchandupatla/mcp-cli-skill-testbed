@@ -1,4 +1,4 @@
-DEFAULT_TIMEOUT = 5
+DEFAULT_TIMEOUT = 30
 
 
 def parse_config(text):
