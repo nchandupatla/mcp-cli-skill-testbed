@@ -11,3 +11,5 @@ parse_config("timeout = 10")
 
 ## Testing
 
+Run `PYTHONPATH=src pytest -q` to run the tests.
+
